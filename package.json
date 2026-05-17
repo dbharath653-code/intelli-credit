@@ -1,0 +1,33 @@
+{
+  "name": "intelli-credit",
+  "version": "1.0.0",
+  "description": "AI-powered credit appraisal and loan management platform for Indian financial institutions",
+  "private": true,
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.1",
+    "vite": "^5.0.8"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "credit",
+    "lending",
+    "fintech",
+    "india",
+    "ai",
+    "nbfc",
+    "gst",
+    "cibil",
+    "cam",
+    "loan-management"
+  ],
+  "author": "",
+  "license": "MIT"
+}
